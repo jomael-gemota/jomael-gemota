@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Jomael Gemota!</h1>
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer from the Philippines. I love building challenging automation websites and softwares.
 
@@ -91,6 +95,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer from the
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=radical" />
 </a>
 
+
 <p align="left">
   <a href="https://github.com/anuraghazra/convoychat">
     <div style="margin-top: 40px;">
@@ -98,6 +103,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer from the
     </div>
   </a>
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jomael-gemota&theme=monokai)](https://git.io/streak-stats)
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
