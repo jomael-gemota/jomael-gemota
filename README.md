@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jomael Gemota!</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippines. I love building challenging automation websites and software.</h3>
-
 Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippines. I love building challenging automation websites and software.
 
 ## 🚀 About Me
