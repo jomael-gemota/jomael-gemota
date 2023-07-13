@@ -51,6 +51,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 
 #### AI Companion
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-4285F4?style=flat-square&logo=google&logoColor=white)
+![DailyBot](https://img.shields.io/badge/-DailyBot-0088FF?style=flat-square&logo=dailybot&logoColor=white)
 
 #### DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
