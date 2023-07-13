@@ -1,13 +1,18 @@
 # Hi there, I'm Jomael! 👋
+<h1 align="center">Hi 👋, I'm Jomael Gemota!</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippines. I love building challenging automation websites and software.</h3>
 
 Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippines. I love building challenging automation websites and software.
 
 ## 🚀 About Me
 - 🎓 Certificate of Computer Technology – Systems and Network Administration
 - 💼 IT Developer & IT Support
-- ⚙️ I'm proficient in building ReactJS websites
-- 🌱 I'm currently learning Python and ChatGPT's API
-- 📫 How to reach me: jomaelgemota@gmail.com
+- ⚙️ I'm proficient in building **ReactJS** websites
+- 🌱 I'm currently learning **Python** and **ChatGPT's API.**
+- 💬 Ask me about **ReactJS, MongoDB, Excel parsing & Web scraping.**
+- 👨‍💻 All of my projects are available at [portfolio.jomaelgemota.com](portfolio.jomaelgemota.com)
+- ⚡ Fun fact **I think I am funny**
+- 📫 How to reach me: **jomaelgemota@gmail.com**
 
 ## 🔧 Technologies & Tools
 #### Web Development Basics
@@ -54,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-#### Messaging Softwares
+#### Messaging Tools
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Skype](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=skype&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
@@ -82,9 +87,17 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=radical)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jomael-gemota&label=Profile%20views&color=0e75b6&style=flat" alt="jomael-gemota" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jomael-gemota" alt="jomael-gemota" /></a> </p>
+
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jomael-m-gemota-04304410a/)
-- [Twitter](https://twitter.com/your-twitter)
-- [Personal Website](https://your-website.com)
+<p align="left">
+  <a href="https://dev.to/jomaelgemota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jomaelgemota" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jomael-m-gemota-04304410a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jomael-m-gemota-04304410a" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/jomael-gemota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jomael-gemota" height="30" width="40" /></a>
+  <a href="https://codesandbox.com/jomaelgemota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jomaelgemota" height="30" width="40" /></a>
+  <a href="https://fb.com/jomael.gemota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jomael.gemota" height="30" width="40" /></a>
+</p>
 
 Feel free to explore my repositories and don't hesitate to connect with me. Let's collaborate and build something awesome together!
