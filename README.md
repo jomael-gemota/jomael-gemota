@@ -105,7 +105,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 <p align="left">
   <a href="https://dev.to/jomaelgemota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jomaelgemota" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/jomael-m-gemota-04304410a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jomael-m-gemota-04304410a" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/jomael-gemota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jomael-gemota" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/13627247/jomael-gemota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jomael-gemota" height="30" width="40" /></a>
   <a href="https://codesandbox.com/jomaelgemota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jomaelgemota" height="30" width="40" /></a>
   <a href="https://fb.com/jomael.gemota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jomael.gemota" height="30" width="40" /></a>
 </p>
