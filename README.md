@@ -90,7 +90,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jomael-gemota&theme=tokyonight&margin-w=15&margin-h=15&column=4" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jomael-gemota&theme=gruvbox&margin-w=15&margin-h=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Profile Trophy" />
   </a>
 </p>
 
