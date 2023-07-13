@@ -56,6 +56,8 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 
 #### Messaging Softwares
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Skype](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=skype&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 
 #### Project Management Software
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
