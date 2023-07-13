@@ -47,11 +47,19 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 ![CoreUI](https://img.shields.io/badge/-CoreUI-1A8FBF?style=flat-square&logo=coreui&logoColor=white)
 
 ## 🌟 Featured Projects
-- [Expert Care](link): Short project description.
-- [Spire](link): Short project description.
+- [Expert Care](https://github.com/jomael-gemota/expertcare): Short project description.
+- [Spire](https://github.com/ChannelPrecision/demand-data-controller): Short project description.
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=merko)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=gruvbox)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=onedark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=cobalt)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=synthwave)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=highcontrast)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=dracula)
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jomael-m-gemota-04304410a/)
