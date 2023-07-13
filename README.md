@@ -1,6 +1,6 @@
 # Hi there, I'm Jomael! 👋
 
-Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippines. I love building challenging automation websites.
+Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippines. I love building challenging automation websites and software.
 
 ## 🚀 About Me
 - 🎓 Certificate of Computer Technology – Systems and Network Administration
@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 - 📫 How to reach me: jomaelgemota@gmail.com
 
 ## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -34,18 +33,28 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![WinAutomation](https://img.shields.io/badge/-WinAutomation_Console-0088FF?style=flat-square&logo=windows&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+![Asana](https://img.shields.io/badge/-Asana-273347?style=flat-square&logo=asana&logoColor=white)
+![Basecamp](https://img.shields.io/badge/-Basecamp-4E8DBC?style=flat-square&logo=basecamp&logoColor=white)
+![NightmareJS](https://img.shields.io/badge/-NightmareJS-271F30?style=flat-square&logo=electron&logoColor=white)
+![Osmosis](https://img.shields.io/badge/-Osmosis-343B40?style=flat-square&logo=javascript&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A9A48?style=flat-square&logo=axios&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![CoreUI](https://img.shields.io/badge/-CoreUI-1A8FBF?style=flat-square&logo=coreui&logoColor=white)
 
 ## 🌟 Featured Projects
-- [Project 1](link): Short project description.
-- [Project 2](link): Short project description.
-- [Project 3](link): Short project description.
-... Showcase your noteworthy projects!
+- [Expert Care](link): Short project description.
+- [Spire](link): Short project description.
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/jomael-m-gemota-04304410a/)
 - [Twitter](https://twitter.com/your-twitter)
 - [Personal Website](https://your-website.com)
 
