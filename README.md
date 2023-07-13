@@ -82,7 +82,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 - [Spire](https://github.com/ChannelPrecision/demand-data-controller): Short project description.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jomael-gemota&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
