@@ -52,14 +52,9 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=radical)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=merko)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=gruvbox)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=tokyonight)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=onedark)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=cobalt)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=synthwave)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=highcontrast)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=dracula)
+![Profile Summary Card](https://github-readme-stats.vercel.app/api/cards/profile-details?username=jomael-gemota&theme=dracula)
+![Repository Card](https://github-readme-stats.vercel.app/api/cards/repos-per-language?username=jomael-gemota&theme=dracula)
+![Top Skills Card](https://github-readme-stats.vercel.app/api/cards/skills?username=jomael-gemota&theme=dracula)
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jomael-m-gemota-04304410a/)
