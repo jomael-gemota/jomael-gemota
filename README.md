@@ -1,13 +1,13 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Jomael! 👋
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession/Interests] from [Your Location]. I love building [mention your favorite technologies or projects].
+Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippines. I love building challenging automation websites.
 
 ## 🚀 About Me
-- 🎓 [Your Education/Background]
-- 💼 [Your Current Job/Occupation]
-- ⚙️ I'm proficient in [List of your skills/technologies]
-- 🌱 I'm currently learning [What you're currently learning]
-- 📫 How to reach me: [Your Contact Information]
+- 🎓 Certificate of Computer Technology – Systems and Network Administration
+- 💼 IT Developer & IT Support
+- ⚙️ I'm proficient in building ReactJS websites
+- 🌱 I'm currently learning Python and ChatGPT's API
+- 📫 How to reach me: jomaelgemota@gmail.com
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
