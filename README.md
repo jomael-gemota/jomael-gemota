@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer from the
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-#### Messaging Tools
+#### Messaging Platforms
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Skype](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=skype&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
