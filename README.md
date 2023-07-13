@@ -82,19 +82,24 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from the Philippine
 - [Spire](https://github.com/ChannelPrecision/demand-data-controller): Short project description.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=radical)
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jomael-gemota&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jomael-gemota&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jomael-gemota&theme=gruvbox&margin-w=15&margin-h=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Profile Trophy" />
+    <div style="margin-top: 20px;">
+      <img src="https://github-profile-trophy.vercel.app/?username=jomael-gemota&theme=gruvbox&margin-w=15&margin-h=15&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Profile Trophy" />
+    </div>
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomael-gemota&layout=pie)](https://github.com/jomael-gemota/github-readme-stats)
 
 ## 🤝 Connect with Me
 <p align="left">
