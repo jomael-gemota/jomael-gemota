@@ -85,6 +85,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer from the
 ## 🌟 Featured Projects
 - [Expert Care](https://github.com/jomael-gemota/expertcare): Short project description.
 - [Spire](https://github.com/ChannelPrecision/demand-data-controller): Short project description.
+- [Efficiency Report](https://github.com/jomael-gemota/efficiency-report): Short project description.
 
 ## 📈 GitHub Stats
 <p align="left">
