@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<!--
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
+!-->
 
 <h1 align="center">Hi 👋, I'm Jomael Gemota!</h1>
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer from the Philippines. I love building challenging automation websites and softwares.
