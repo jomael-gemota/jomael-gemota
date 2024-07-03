@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer from the
 - ⚙️ I'm proficient in building **ReactJS** websites
 - 🌱 I'm currently learning **Python** and **ChatGPT's API.**
 - 💬 Ask me about **ReactJS, MongoDB, Excel parsing & Web scraping.**
-- 👨‍💻 All of my projects are available at [portfolio.jomaelgemota.com](portfolio.jomaelgemota.com)
 - ⚡ Fun fact **I think I am funny**
 - 📫 How to reach me: **jomaelgemota@gmail.com**
 
