@@ -82,40 +82,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer from the
 #### Process Automation Tools
 ![WinAutomation](https://img.shields.io/badge/-WinAutomation_Console-0088FF?style=flat-square&logo=windows&logoColor=white)
 
-
-## 🌟 Featured Projects
-- [Expert Care](https://github.com/jomael-gemota/expertcare): Short project description.
-- [Spire](https://github.com/ChannelPrecision/demand-data-controller): Short project description.
-- [Efficiency Report](https://github.com/jomael-gemota/efficiency-report): Short project description.
-
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jomael-gemota&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jomael-gemota&show_icons=true&theme=radical" />
-</a>
-
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <div style="margin-top: 40px;">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jomael-gemota&layout=compact&langs_count=8&card_width=320" />
-    </div>
-  </a>
-</p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jomael-gemota&theme=monokai)](https://git.io/streak-stats)
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <div style="margin-top: 20px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=jomael-gemota&theme=gruvbox&margin-w=15&margin-h=15&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Profile Trophy" />
-    </div>
-  </a>
-</p>
-
 ## 🤝 Connect with Me
 <p align="left">
   <a href="https://dev.to/jomaelgemota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jomaelgemota" height="30" width="40" /></a>
