@@ -41,6 +41,10 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer from the
 #### Backend as a Service (BaaS)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
+#### Customer Relationship Management (CRM)
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Zoho](https://img.shields.io/badge/-Zoho-FF0000?style=flat-square&logo=zoho&logoColor=white)
+
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
